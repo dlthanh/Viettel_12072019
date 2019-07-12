@@ -9,7 +9,7 @@ img {
     vertical-align: middle;
 }
 .emag-wrapper {
-    background-color: #f4f4f4;
+    /* background-color: #f4f4f4; */
 }
 /* .emag-cover {
     padding-top: 46px;
@@ -75,13 +75,13 @@ img {
     margin-bottom: 30px;
 }
 .emag-fullwidth {
-    background-color: #001c53;
+    background-color: #99d5d0;
     margin-top: 60px;
     padding-top: 30px;
     padding-bottom: 55px;
 }
 .emag-fullwidth p {
-    color: #cccccc;
+    /* color: #cccccc; */
 }
 .emag-credit {
     margin-top: 90px;
@@ -92,7 +92,7 @@ img {
     font-family: 'Gotham', sans-serif;
 }
 .emag-credit img {
-    width: auto;
+    width: 100%;
     display: block;
     margin: 0 auto;
 }
